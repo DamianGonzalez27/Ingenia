@@ -16,3 +16,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+// Pages routes
+Route::get('/', 'HomeController@index')->name('home');
+
+
+//Rutas de autenticacion
+Auth::routes();
+
+// Rest Full: Rutas de interaccion con el usuario
+
+Route::resource('client', 'ClientController');
