@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 
 // Pages routes
-Route::get('/', 'HomeController@index')->name('home');
+Route::get('/home', 'HomeController@index')->name('home');
 
 
 //Rutas de autenticacion
