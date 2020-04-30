@@ -67,6 +67,7 @@ la codificación HTML de la maqueta.
 6.  Los datos son validados por medio de las clases Request de laravel, se crearon clases validadoras especiales para cada peticion.
 7.  Se crea una API REST Full para las acciones con los clientes (CRUD)
 8.  Se usa el middleware auth de laravel para validar el inicio de sesiones
+9.  Se realiza una paginacion por cada 5 registros de clientes
 
 - [db4Free.net](https://db4free.net)
 - [Heroku](https://www.heroku.com/home)
