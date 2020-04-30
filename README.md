@@ -1,13 +1,7 @@
 <p align="center"><img src="https://smhttp-ssl-62978.nexcesscdn.net/wp-content/uploads/2017/12/ingenia-logo.jpg" width="400"></p>
 
-## Prueba técnica Ingenia
+# Prueba técnica Ingenia
 
-Esta es una aplicacion desarrollada para la empresa Ingenia
-
-Esta desarrollada con el Framework Laravel
-La base de datos se encuentra en db4free.net
-
-Puntos tratados en la prueba:
 
 
 ## BACK-END (PHP)
@@ -74,5 +68,8 @@ la codificación HTML de la maqueta.
 7.  Se crea una API REST Full para las acciones con los clientes (CRUD)
 8.  Se usa el middleware auth de laravel para validar el inicio de sesiones
 
-__by__ *DamianDev*
+- [db4Free.net](https://db4free.net)
+- [Heroku](https://www.heroku.com/home)
+
+__by__: *DamianDev*
 
