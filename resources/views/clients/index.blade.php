@@ -44,6 +44,7 @@
   </div>
   <hr>
   <div>
+    {{ $clients->links() }}
     <a href="{{ route('home') }}" class="btn btn-primary form-control">Home app</a>
   </div>
 </div>
