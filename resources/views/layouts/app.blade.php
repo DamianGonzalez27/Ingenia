@@ -10,14 +10,14 @@
     <title>{{ config('app.name', 'Ingenia') }}</title>
 
     <!-- Scripts -->
-    <script src="//js/app.js" defer type="text/javascript"></script>
+    <script src="js/app.js" defer type="text/javascript"></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="//css/app.css" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
 </head>
 <body>
     <div id="app">
